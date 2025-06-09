@@ -1,1 +1,1 @@
-#This personalized dshboard is your centeral hub for tracking activities, managing meetings, and accessing platform features with ease.it's designed to be an engaging, intuitive, and visually appealing interface, empowering you to stay organized and productive.
+# This personalized dshboard is your centeral hub for tracking activities, managing meetings, and accessing platform features with ease.it's designed to be an engaging, intuitive, and visually appealing interface, empowering you to stay organized and productive.
